@@ -1,0 +1,3 @@
+default:
+  appsLocation: ./tests/__fixtures__/react-apps
+  someVariable: 123

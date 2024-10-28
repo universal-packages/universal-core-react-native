@@ -1,0 +1,2 @@
+default:
+  appsLocation: ./src/react-apps
