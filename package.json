@@ -16,16 +16,16 @@
     "update-universal-dependencies": "umaintenance update-universal-dependencies"
   },
   "peerDependencies": {
-    "@universal-packages/core": "^1.31.1"
+    "@universal-packages/core": "^1.31.2"
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^4.3.0",
     "@types/express": "^4.17.14",
     "@types/jest": "^29.5.14",
     "@types/node": "^18.11.9",
-    "@universal-packages/core-jest": "^1.5.2",
+    "@universal-packages/core-jest": "^1.5.3",
     "@universal-packages/maintenance": "^1.7.1",
-    "@universal-packages/sub-process-jest": "^1.2.1",
+    "@universal-packages/sub-process-jest": "^1.2.2",
     "jest": "^29.7.0",
     "prettier": "^3.4.1",
     "ts-jest": "^29.2.5",
